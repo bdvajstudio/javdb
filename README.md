@@ -1,5 +1,8 @@
 # JavDB
 
-[JavDB official app download](https://github.com/bdvajstudio/javdb/releases)
+## Downloads
+
+- [releases page](https://github.com/bdvajstudio/javdb/releases)
+- [Telegram Channel](https://t.me/javdbnews)
 
 
