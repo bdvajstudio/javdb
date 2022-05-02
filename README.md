@@ -1,6 +1,6 @@
 # JavDB
 
-javdb.com official app
+[javdb.com](https://javdb.com) official app
 
 ## Downloads
 
