@@ -1,9 +1,9 @@
 {
 	"name": "JavDB",
-	"identifier": "",
+	"identifier": "com.example.astarte",
 	"apps": [{
 		"name": "JavDB",
-		"bundleIdentifier": "",
+		"bundleIdentifier": "com.example.astarte",
 		"developerName": "bdvajstudio",
 		"subtitle": "App for Streaming Movies and TV shows.",
 		"version": "1.9.12",
@@ -11,14 +11,14 @@
 		"versionDescription": "",
 		"downloadURL": "https://github.com/bdvajstudio/javdb/releases/download/v1.9.12/jdb_official_v1.9.12.ipa",
 		"localizedDescription": "",
-		"iconURL": "",
+		"iconURL": "https://jav.app/img/logo.5a6a7422.png",
 		"tintColor": "000000",
 		"size": 11900000,
 		"screenshotURLs": [
-			"",
-			"",
-			"",
-			""
+			"https://jav.app/img/screenshot.ba80a5ca.png",
+			"https://jav.app/img/screenshot02.da2bf57a.png",
+			"https://jav.app/img/screenshot03.d12cebb2.png",
+			"https://jav.app/img/screenshot05.b0b566d9.png"
 		]
 	}]
 }
