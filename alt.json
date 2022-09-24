@@ -1,0 +1,24 @@
+{
+	"name": "JavDB",
+	"identifier": "",
+	"apps": [{
+		"name": "JavDB",
+		"bundleIdentifier": "",
+		"developerName": "bdvajstudio",
+		"subtitle": "App for Streaming Movies and TV shows.",
+		"version": "1.9.12",
+		"versionDate": "2022-06-01",
+		"versionDescription": "",
+		"downloadURL": "https://github.com/bdvajstudio/javdb/releases/download/v1.9.12/jdb_official_v1.9.12.ipa",
+		"localizedDescription": "",
+		"iconURL": "",
+		"tintColor": "000000",
+		"size": 11900000,
+		"screenshotURLs": [
+			"",
+			"",
+			"",
+			""
+		]
+	}]
+}
