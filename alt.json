@@ -4,7 +4,7 @@
 	"apps": [{
 		"name": "JavDB",
 		"bundleIdentifier": "com.example.astarte",
-		"developerName": "bdvajstudio",
+		"developerName": "javdb",
 		"subtitle": "Online Information source for adult movies.",
 		"version": "1.9.13",
 		"versionDate": "2022-10-12",
