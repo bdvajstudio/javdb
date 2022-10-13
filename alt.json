@@ -1,9 +1,9 @@
 {
 	"name": "JavDB",
-	"identifier": "com.example.astarte",
+	"identifier": "com.example.astarte-prod1",
 	"apps": [{
 		"name": "JavDB",
-		"bundleIdentifier": "com.example.astarte",
+		"bundleIdentifier": "com.example.astarte-prod1",
 		"developerName": "javdb",
 		"subtitle": "Online Information source for adult movies.",
 		"version": "1.9.13",
