@@ -1,6 +1,6 @@
 {
 	"name": "JavDB",
-	"identifier": "com.example.astarte-prod1",
+	"identifier": "com.example.astarte-prod3",
 	"apps": [{
 		"name": "JavDB",
 		"bundleIdentifier": "com.example.astarte-prod3",
