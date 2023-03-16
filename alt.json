@@ -9,7 +9,7 @@
 		"version": "1.9.15",
 		"versionDate": "2023-03-16",
 		"versionDescription": "• APP 啟動時的選擇線路界面優化，超時或連接不上時，可手動選擇線路進行嘗試\n• 將 TOP250 和看熱播欄目整合到排行榜\n• 播放器支持長按以 2 倍速播放\n• 影片詳情頁，長按演員頭像複製其名稱到剪貼板\n• 長按左上角返回或物理返回鍵，將直接返回首屏\n• TOP250 排行年份篩選增加至今年\n• 上傳未到帳截圖時可附加說明文字\n• 修復有碼演員篩選滑塊會觸發後退上一界面的問題\n• 修復播放器全屏時，在狀態欄下拉會觸發音量調節的問題\n• 其他問題修正和優化",
-		"downloadURL": "https://github.com/bdvajstudio/javdb/releases/download/v1.9.14/jdb_official_v1.9.14.ipa",
+		"downloadURL": "https://github.com/bdvajstudio/javdb/releases/download/v1.9.15/jdb_official_v1.9.15.ipa",
 		"localizedDescription": "JavDB, the most comprehensive online database of adult videos, and you can search and view all of adult videos in Japan with Censored, Uncensored, Western, Anime and FC2.",
 		"iconURL": "https://jav.app/img/logo.5a6a7422.png",
 		"tintColor": "#c026c0",
